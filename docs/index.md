@@ -2,26 +2,26 @@
 layout: cv
 title: Hans Capener's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Hans Capener
+Data Science Major, Math Minor
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="cap23001@byui.edu">cap23001@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://www.linkedin.com/in/hans-capener-72a76a291/">LinkedIn</a>
+| <a href="https://github.com/hansepac">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2017-2020`
+__Shasta College__, Redding, CA
 
-- Full academic scholarship with 4.0 GPA
+- Associates Degree - 3.8+ GPA
 
-`Expected 2029`
+`Expected April 2025`
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - 4.0 Major GPA
@@ -29,57 +29,50 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ## Related Experience
 
-### Internships
+### Projects
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+__Data Analysis Portfolio__
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Performed analysis and created visualization for many datasets
+- See my [Portfolio](https://hansepac.github.io/portfolioQMD/)
 
-### Data Science Lead
+## Skills
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Python
+    - Pandas
+    - Numpy
+    - Altair
+- R
+    - ggplot2
+    - plotly
+- Machine Learning
+- Data Wrangling/Visualization
+- Applied Linear Regression
+- Typing Speed - 90 WPM
 
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+### Math Tutor
+
+`Fall 2018 - Winter 2020`
+__Shasta College, Math Tutoring Center__, Redding, CA
+
+- Discerned specific needs and formulated tailored instruction to train and inspire each individual I assisted.
+- Aided people from various ethnic and cultural backgrounds.
+- ostered an environment of enthusiasm for topics I taught.
+- Tutored over 150 students to improve their final scores by one to two letter grades. Students would specifically request me even when other tutors were available because of my ability to teach well and uplift them. 
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+### Proselyting Missionary Service
 
+`Februrary 2021 - Februrary 2023`
+__The Church of Jesus Christ of Latter-Day Saints__, District and Zone Leader
+
+- Coordinated the development of a zone of 20+ missionaries by empowering and strengthening the district leaders and holding weekly meetings to assess the needs and plans of the zone.
+- Created detailed plans for 2.5 hour Zone trainings, including activities, and initiatives to elevate zone moral and productivity, and strengthen the zone in it's weakest areas.
+- Conducted Multi-Zone conferences
+- Served 60+ missionaries and cultivated a culture of excitement in a zone with very low moral.
 
 
 <!-- ### Footer
